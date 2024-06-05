@@ -1,13 +1,27 @@
 * {
     background-color: black;
     font-family: verdana;
+    text-align: center;
+    
     }
-h1 {
+#hidden {
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
 }
-p {
-    text-align: center;
+
+#guide {
+    font-weight: 300;
+    font-size: 42px;
+    color: aliceblue;
+}
+
+#link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#under {
+    color: white;
 }
